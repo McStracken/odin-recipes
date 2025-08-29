@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipe Practice File Test
+Recipe Practice File
